@@ -1,0 +1,83 @@
+﻿An old brick with a hole in its center.|Brick|1|1|_10
+A solid Iron bar|Iron Bar|1|1|_11
+Did you build that all by yourself?|Makeshift Hammer|1|1|_12
+A small bronze key|Bronze Key|1|1|_13
+A part of an old map showing several rooms.|Strange Map|1|1|_14
+A coin -- great for buying stuff|Coin|0|1|_15
+A precious, red gemstone. 2 points (Score)|Ruby|0|1|_16
+A simple wooden Broom|Broom|1|1|_17
+You remember that spiders avoid this herb.|Medicinal herb Comfrey|1|1|_18
+A small copper ring with an ornament|Ring|1|1|_19
+A small bronze key|Bronze Key|1|1|_20
+A coin -- great for buying stuff|Coin|0|1|_21
+A coin -- great for buying stuff|Coin|0|1|_22
+A coin -- great for buying stuff|Coin|0|1|_23
+A small metal knife|Knife|1|1|_24
+A small bronze key|Bronze Key|1|1|_25
+As long as you have this card: every time you lose health points, you lose 1 additional point.|Spider Bite|1|0|_26
+A scroll covered in strange symbols.|Scroll|0|1|_27
+A key made of silver.|Silver Key|1|1|_28
+A can filled with oil.|Can of Oil|1|1|_29
+The glass bottle is empty.|Glass Bottle|1|1|_30
+The glass bottle is filled with wine.|Bottle of Wine|1|1|_31
+You may drink this potion during your turn. If you want to do this, read entry 125.|Blue Potion|1|1|_32
+There is a worn out inscription on the box. "Makes…isible, what has been…idden".|Powder Box|1|1|_33
+Part of a stained-glass window.|Shard of Glass|1|1|_34
+You may drink this potion during your turn. If you want to do this, read entry 425.|Yellow Potion "Aqua Regia"|1|1|_35
+A rusty metal hook.|Metal Hook|1|1|_36
+An old stone tablet with strange engravings.|Stone Tablet|0|1|_37
+You may drink this potion during your turn. If you want to do this, read entry 225.|Red Potion|1|1|_38
+You may drink this potion during your turn. If you want to do this, read entry 325.|Purple Potion|1|1|_39
+A blank sheet of paper.|Sheet of Paper|1|1|_40
+The powder has revealed a secret writing.|Sheet of Paper|0|1|_41
+A page torn from a book with strange symbols.|Page of a Book|0|1|_42
+You may drink this potion during your turn. If you want to do this, read entry 425.|Yellow Potion "Aqua Regia"|1|1|_43
+A precious, green gemstone. 2 points (Score)|Emerald|0|1|_44
+A map drawn on parchment.|Large Map|0|1|_45
+An unconscious rat. Seems quite harmless.|Unconscious Rat|1|1|_46
+You may eat this slab of bacon during your turn to heal 2 health points.|A Slab of Bacon|1|1|_47
+A beautiful silver pendant.|Pendant|1|1|_48
+A musty length of rope.|Rope|1|1|_49
+A small treasure chest that is safely locked.|Jewelry Box|1|1|_50
+The hook is now attached to the rope.|Rope with a Hook|1|1|_51
+You may eat this piece of cheese during your turn to heal 1 health point.|Piece of Cheese|1|1|_52
+A strange object made out of mother-of-pearl.|Mother-of-Pearl Tile|1|1|_53
+A beautiful old mirror.|Mirror|1|1|_54
+When you end your turn in the same location as the beast, you lose 1 health pt. You must not explore this location.|Beast|1|0|_55
+A strange object made out of mother-of-pearl.|Mother-of-Pearl Tile|1|1|_56
+A bright blue gemstone. 2 points (Score)|Sapphire|0|1|_57
+As long as you have this card: If you still have this card at the end of the chapter, You lose 2 points.|Scorpion|1|0|_58
+As long as you have this card: If you still have this card at the end of the chapter, You lose 1 points.|Giant Leech|1|0|_59
+A highly ornamented ancient scepter.|Scepter|1|1|_60
+A strange scaly egg made from stone.|Scaly Egg|1|1|_61
+Just hatched, it is very playful but the occasional little flames shooting from its nostrils hint at the tremendous power that it will have.|Baby Dragon|1|1|_62
+A strange object made out of mother-of-pearl.|Mother-of-Pearl Tile|1|1|_63
+A lovely rose gemstone. 2 points (Score)|Rose Quartz|0|1|_64
+A sparkling, colorless gemstone. 2 points (Score)|Diamond|0|1|_65
+You have only 4 turns left. After Every turn, turn this card 90ᵒ clockwise. When this card is in its original position, read entry 500.|Berengar|0|0|_66
+Heal up to 6 health points among all players. Discard all Item<!> cards. Read entry 200. All players are moved to Room Card F.|Chapter 2|0|0|_67
+Heal up to 8 health points among all players. Discard all Item<!> cards. Read entry 300. All players are moved to Room Card K.|Chapter 3|0|0|_68
+A yellow shimmering gemstone. 2 points (Score)|Topaz|0|1|_69
+You may drink this potion during your turn. If you want to do this, read entry 525.|Black Potion|1|1|_70
+You may eat this piece of bread to heal 1 health point.|Stale Bread|1|1|_71
+A page torn from the diary of a guard.|Diary Entry|0|1|_72
+If the entry says that you lose health points, you can use this card to prevent that, but the other effects stay true.|Lucky Charm|1|1|_73
+This adventure card cannot be combined with another. Monte can still be useful in another way.|Monte the Miner|0|1|_74
+This adventure card cannot be combined with another. Jin can still be useful in another way.|Jin the Jeweler|0|1|_75
+This adventure card cannot be combined with another. Nuha can still be useful in another way.|Nuha, the Mistress of Riddles|0|1|_76
+This adventure card cannot be combined with another. Brigh can still be useful in another way.|Brigh the Warrior|0|1|_77
+You cannot explore any locations or combine adventure cards with locations when there is not another player in the same room.|Autophobia|1|0|_78
+ |Stained-Glass Window|0|1|_79
+When you took your last step, you already had a hunch that the mask was watching you. As you continue your way, an arrow comes from the mouth of the mask.|The Stone Mask|0|0| 
+Monte appears to mean you no harm. Thus, you decide to call the others. Place all characters on Room Card C. As you arrive, his smile widens. "A rare sight to see this many friendly faces down here! Well, let us see what I can give you..." Who will accept his offering?|A Friendly Conversation|0|0|  
+You show the others what you have found and you gather around the crystal ball. Place all characters on Room Card J. Who will be the first to take a look?|A Look into the Crystal Ball|0|0| 
+Breathing heavily with suppressed anger, pupils dilated, the hand of the prisoner suddenly reaches forward…|An Insidious Attack|0|0| 
+The path into the deep is hardly visible. You call the others to discuss further actions. Place all characters on Room Card I. Who dares the descend?|Path into the Deep|0|0| 
+Slowly you realize that this vision is part of your lost memories. It belongs to the time when you were a submissive member of the League of Guardians. At the last moment, you catch a glimpse of what has been…|To Be or Not To Be|0|0| 
+Bit by bit, your senses are returning. Agonizingly at first, then quicker. But mania will not loosen its grip on you without a fight. You have one last vision…|A Moment of Clarity|0|0| 
+Something tells you that it is important which one of you talks to her and thus you call the others. Place all characters on Room Card N. Who knows how she will respond…Who will talk to her?|A Spark of Recognition|0|0| 
+As long as you have this card: If you still have this card at the end of the chapter, you lose 2 points.|Electric Eel|1|0|_88
+This adventure card cannot be combined with any other adventure card. Sirona can still be useful in another way.|Sirona the Healer|0|1|_89
+ |Edric|0|0|_90
+A trained rat|Trained Rat|1|1|_91
+ |?|1|1|_92
